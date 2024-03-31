@@ -10,4 +10,33 @@ My CV in pdf.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
+## Porfolio projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Spreadsheets
+### Basic spreadsheets function
+**Link**: [spreadsheet practice.xlsx]  
+
+**Goal**: to show how I utilize basic spreadsheets function  
+
+**Description**: This spreadsheets file contains various practices on basic function such as dynamic query, dynamic filter, regular expression, vlookup, xlooxup, and create custom function  
+
+**Skill**: Spreadsheets, data cleaning  
+
+**Tool**: Google spreadsheets  
+
+**Result**: Learn how to clean and utilize useful function for future use  
+
+### SQL
+### Creating pizza restaurant
+**Link**: [spreadsheet practice.xlsx]  
+
+**Goal**: to show how I utilize basic spreadsheets function  
+
+**Description**: This spreadsheets file contains various practices on basic function such as dynamic query, dynamic filter, regular expression, vlookup, xlooxup, and create custom function  
+
+**Skill**: Spreadsheets, data cleaning  
+
+**Tool**: Google spreadsheets  
+
+**Result**: Learn how to clean and utilize useful function for future use  

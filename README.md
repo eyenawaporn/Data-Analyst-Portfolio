@@ -15,7 +15,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Spreadsheets
 ### Basic spreadsheets function
-**Link**: [spreadsheet practice.xlsx]  
+**Link**: [spreadsheet practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/spreadsheet%20practice.xlsx)  
 
 **Goal**: to show how I utilize basic spreadsheets function  
 

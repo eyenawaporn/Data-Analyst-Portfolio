@@ -227,4 +227,14 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Tool**: Looker studio  
 
+## Certificate
+While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications
 
+[Data Sceince Bootcamp](https://api.badgr.io/public/assertions/Y0GvokHASs27mAU4zvuRwQ?identity__email=nawaporn.pmk%40gmail.com) (Mar 2024) (Datarockie)
+[Correlation and Regression for The Curious] (Jan 2024) (Datarockie)
+[Introduction to Data Studio] (Jan 2024) (Google Analytics Academy)
+[Google Data Analytics](Dec 2023) (Coursera - Google)
+
+## Contact
+**Email**: nawaporn.pmk@gmail.com
+**Linkedin**: [Nawaporn Pernmankhong](https://www.linkedin.com/in/nawaporn-pernmankhong/)

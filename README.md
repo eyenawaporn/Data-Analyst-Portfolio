@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Porfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Spreadsheets
+## Spreadsheets
 ### Basic spreadsheets function
 **Link**: [Spreadsheet practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/spreadsheet%20practice.xlsx)  
 
@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
-### SQL
+## SQL
 ### Creating pizza restaurant
 **Link**: [Pizza restaurant](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pizza%20restaurant.sql)  
 
@@ -69,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result** Find interesting insights from this dataset such as percentage of people who got infected per population, country with the highest infection rate, and death rate.  
 
 
-### R programming language
+## R programming language
 ### Creating chatbot to order pizza
 **Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
 
@@ -148,7 +148,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members.  Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August).  Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended.  This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
-### Machine Learning
+## Machine Learning
 ### KNN model
 **Link**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
 
@@ -171,7 +171,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-### Python
+## Python
 ### Creating rock paper scissors game using python
 **Link**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
 
@@ -217,7 +217,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
-### Dashboard
+## Dashboard
 ### Cannabis retail sales
 **Link**: [Cannabis retail sales dashboard](https://lookerstudio.google.com/s/oPDIwuutxL4)  
 

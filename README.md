@@ -230,11 +230,11 @@ insights I discover will then help guide marketing strategy for the company. I w
 ## Certificate
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications
 
-[Data Sceince Bootcamp](https://api.badgr.io/public/assertions/Y0GvokHASs27mAU4zvuRwQ?identity__email=nawaporn.pmk%40gmail.com) (Mar 2024) (Datarockie)
-[Correlation and Regression for The Curious] (Jan 2024) (Datarockie)
-[Introduction to Data Studio] (Jan 2024) (Google Analytics Academy)
-[Google Data Analytics](Dec 2023) (Coursera - Google)
+[Data Sceince Bootcamp](https://api.badgr.io/public/assertions/Y0GvokHASs27mAU4zvuRwQ?identity__email=nawaporn.pmk%40gmail.com) (Mar 2024) (Datarockie)  
+[Correlation and Regression for The Curious](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Correlation%20and%20Regression.pdf)(Jan 2024) (Datarockie)  
+[Introduction to Data Studio](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Data%20stodio%20certificate.pdf) (Jan 2024) (Google Analytics Academy)  
+[Google Data Analytics](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Coursera%20completed%20certificate.pdf)(Dec 2023) (Coursera - Google)  
 
 ## Contact
-**Email**: nawaporn.pmk@gmail.com
-**Linkedin**: [Nawaporn Pernmankhong](https://www.linkedin.com/in/nawaporn-pernmankhong/)
+**Email**: nawaporn.pmk@gmail.com  
+**Linkedin**: [Nawaporn Pernmankhong](https://www.linkedin.com/in/nawaporn-pernmankhong/)  

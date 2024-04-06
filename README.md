@@ -26,8 +26,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool** Bigquery and Tableau  
 
-**Result** Find interesting insights from this dataset such as percentage of people who got infected per population, country with the highest infection rate, and death rate.  
-
 ## R programming language
 ### Creating chatbot to order pizza
 **Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
@@ -40,8 +38,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-**Result**: Successfully creating chatbot for user to order pizza.  
-
 ### Data transformation
 **Link**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
 
@@ -53,8 +49,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-**Result**: Able to find answers such as top 3 ontime carrier, top 5 destination that flights often arrive late, and most flight carrier during holiday season (Dec 2013)  
-
 ### Data visualization in R markdown  
 **Link**: [Data visualization in R markdown](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Homework_R_Markdown.pdf)  
 
@@ -65,8 +59,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skill**: R programming language, Data visualization, R markdown  
 
 **Tool**: Rstudio  
-
-**Result**: Able to find insight from mpg dataset and create a compelling visualization.  
 
 ### Project: Cyclistic Bike-Share Analysis Case Study
 **Link**: [Cyclistic bike-share](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Cyslistic%20project.R)  
@@ -115,8 +107,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skill**: Python 
 
 **Tool**: Python  
-
-**Result**: Successfully creating rock paper scissors game function for user to play with computer.  
 
 ### Pandas practice
 **Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  

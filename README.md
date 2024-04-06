@@ -13,47 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Porfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-## Spreadsheets
-### Basic spreadsheets function
-**Link**: [Spreadsheet practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/spreadsheet%20practice.xlsx)  
-
-**Goal**: To show how I utilize basic spreadsheets function  
-
-**Description**: This spreadsheets file contains various practices on basic function such as dynamic query, dynamic filter, regular expression, vlookup, xlooxup, and create custom function  
-
-**Skill**: Spreadsheets, data cleaning  
-
-**Tool**: Google sheets  
-
-**Result**: Learn how to clean and utilize useful function for future use  
-
-### Mini dashboard (PubG vs Freefire data)
-**Link**: [Mini dashboad in google sheets](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/mini%20dashboard%20-%20Freefire%20vs.%20PubG.xlsx)  
-
-**Goal**: To create dashboard to answer user question about PubG and Freefire data.  
-
-**Description**: The spreadsheet contains data from PubG and Freefire, I combined them together to make it easier to analyze. There are five questions from user, for each question I used a pivot table to analyze specific column and visualize it into a compelling visualization. Then I created dashboard from all the visualizations to make ot easy for user to look.  
-
-**Skill**: Google sheet: Pivot table, Data visualization, Dashboard  
-
-**Tool**: Google sheets  
-
-**Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
-
 ## SQL
-### Creating pizza restaurant
-**Link**: [Pizza restaurant](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pizza%20restaurant.sql)  
-
-**Goal**: To create imaginary pizza restaurant by using create table, insert data in to table, and join table function.   
-
-**Description**: I've created 3 tables which are customer table, order table, and menu table. Then I insert data into those tables. Finally, use join and with clause to answer some questions base on data I created.    
-
-**Skill**: SQL: create table, join, and with clause    
-
-**Tool**: SQLite    
-
-**Result**: Able to find customer who purchased on specific year and find top 3 customers who purchased most expensive pizza.   
-
 ### Project: Covid-19 data exploration
 **Link**: [Covid-19 project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Covid19_Project.sql)  
           [Tableau visualization](https://public.tableau.com/app/profile/nawaporn.pernmankhong/viz/CovidDashboard2020-2024_17110964524360/Dashboard1)  
@@ -68,7 +28,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result** Find interesting insights from this dataset such as percentage of people who got infected per population, country with the highest infection rate, and death rate.  
 
-
 ## R programming language
 ### Creating chatbot to order pizza
 **Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
@@ -82,32 +41,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio  
 
 **Result**: Successfully creating chatbot for user to order pizza.  
-
-### Creating rock paper scissors game
-**Link**: [Rock paper scissors game using R](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_R.ipynb)  
-
-**Goal**: To create function for user to play rock paper scissors game with bot.  
-
-**Description**: This game has been programmed using functions to facilitate user interaction with the computer. Players are granted three attempts per round. After each attempt, the score is automatically calculated and displayed upon completion of the three rounds. The game mechanics incorporate a randomization function to determine the computer's move, allowing for potential wins, losses, or draws.  
-
-**Skill**: R programming language: flush.console(), readline(), control flow  
-
-**Tool**: Rstudio  
-
-**Result**: Successfully creating rock paper scissors game function for user to play with computer.  
-
-### Write table into server
-**Link**: [Write table into server](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/write_dataframe_to_server.R)  
-
-**Goal**: To create 3 dataframe and write table into server.  
-
-**Description**: I used table that I created in pizza restautant and write these tables into PostgreSQL by using library RPostgreSQL and tidyverse.  
-
-**Skill**: R programming language: library(tidyverse), library(RPostgreSQL)  
-
-**Tool**: Rstudio, PostgreSQL  
-
-**Result**: Successfully write table into PostgreSQL and learn how to connect the connection in R.  
 
 ### Data transformation
 **Link**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
@@ -185,15 +118,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Successfully creating rock paper scissors game function for user to play with computer.  
 
-### Creating OOP
-**Link**: [OOP in python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/OOP_python.ipynb)  
-
-**Goal**: To create OOP function with 3 attributes and 3 methods.  
-
-**Skill**: Python  
-
-**Tool**: Python  
-
 ### Pandas practice
 **Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
 
@@ -226,6 +150,19 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Skill**: Dashboard  
 
 **Tool**: Looker studio  
+
+### Mini dashboard (PubG vs Freefire data)
+**Link**: [Mini dashboad in google sheets](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/mini%20dashboard%20-%20Freefire%20vs.%20PubG.xlsx)  
+
+**Goal**: To create dashboard to answer user question about PubG and Freefire data.  
+
+**Description**: The spreadsheet contains data from PubG and Freefire, I combined them together to make it easier to analyze. There are five questions from user, for each question I used a pivot table to analyze specific column and visualize it into a compelling visualization. Then I created dashboard from all the visualizations to make ot easy for user to look.  
+
+**Skill**: Google sheet: Pivot table, Data visualization, Dashboard  
+
+**Tool**: Google sheets  
+
+**Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
 ## Certificate
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications

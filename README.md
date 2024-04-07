@@ -15,16 +15,29 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
   - SQL  
      - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)  
-  - R
+  - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
-  - Python
+    - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
+    - [Data Transformation](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#data-transformation)  
+    - [Data Visualization in R Markdown](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#data-visualization-in-r-markdown)  
+  - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
+    - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
+    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)  
+  - Machine Learning  
+    - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
+    - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)  
+  - Dashboard  
+    - [Cannabis Retail Sales](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#cannabis-retail-sales)  
+    - [Mini Dashboard Freefire vs. PubG](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#mini-dashboard-pubg-vs-freefire-data)  
+- [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certificate)  
+- [Contact](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#contact)  
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## SQL
-### Project: Covid-19 data exploration
+### Project: Covid-19 Data Exploration
 **Link**: [Covid-19 project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Covid19_Project.sql)  
           [Tableau visualization](https://public.tableau.com/app/profile/nawaporn.pernmankhong/viz/CovidDashboard2020-2024_17110964524360/Dashboard1)  
 
@@ -37,39 +50,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool** Bigquery and Tableau  
 
 ## R programming language
-### Creating chatbot to order pizza
-**Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
-
-**Goal**: To create chatbot for user to order pizza  
-
-**Description**: I used R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. I used function readline() to ask for user input. 
-
-**Skill**: R programming language: flush.console(), readline(), control flow  
-
-**Tool**: Rstudio  
-
-### Data transformation
-**Link**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
-
-**Goal**: Ask five question from NYCflight dataset.  
-
-**Description**: The dataset contains data about flight, arrival time, departure time, and destination. I used a lot of aggregate functions such as summarise, sum, and mean to transform data into meaningful insight to answer my questions.  
-
-**Skill**: R programming language, Data transformation, Aggregate functions  
-
-**Tool**: Rstudio  
-
-### Data visualization in R markdown  
-**Link**: [Data visualization in R markdown](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Homework_R_Markdown.pdf)  
-
-**Goal**: To create 5 visualization using mpg dataset in Rstudio.  
-
-**Description**: I used mpg dataset in Rstudio to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.  
-
-**Skill**: R programming language, Data visualization, R markdown  
-
-**Tool**: Rstudio  
-
 ### Project: Cyclistic Bike-Share Analysis Case Study
 **Link**: [Cyclistic bike-share](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Cyslistic%20project.R)  
 
@@ -83,50 +63,40 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members.  Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August).  Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended.  This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
-## Machine Learning
-### KNN model
-**Link**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
+### Creating Chatbot to Order Pizza
+**Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
 
-**Goal**: To practice machine learning using KNN model and able to tune the model.  
+**Goal**: To create chatbot for user to order pizza  
 
-**Description**: I started this model by doing 4 steps, split data, train data, score data, and evaluate data. To make model more accurate, I tuned the model using k-fold cross validation method and use preprocess in this model.  
+**Description**: I used R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. I used function readline() to ask for user input. 
 
-**Skill**: Machine Learning and R programming language  
+**Skill**: R programming language: flush.console(), readline(), control flow  
 
 **Tool**: Rstudio  
 
-### Build churn prediction model
-**Link**: [Churn prediction model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
+### Data Transformation
+**Link**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
 
-**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
+**Goal**: Ask five question from NYCflight dataset.  
 
-**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.  
+**Description**: The dataset contains data about flight, arrival time, departure time, and destination. I used a lot of aggregate functions such as summarise, sum, and mean to transform data into meaningful insight to answer my questions.  
 
-**Skill**: Machine Learning and R programming language  
+**Skill**: R programming language, Data transformation, Aggregate functions  
+
+**Tool**: Rstudio  
+
+### Data Visualization in R Markdown  
+**Link**: [Data visualization in R markdown](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Homework_R_Markdown.pdf)  
+
+**Goal**: To create 5 visualization using mpg dataset in Rstudio.  
+
+**Description**: I used mpg dataset in Rstudio to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.  
+
+**Skill**: R programming language, Data visualization, R markdown  
 
 **Tool**: Rstudio  
 
 ## Python
-### Creating rock paper scissors game using python
-**Link**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
-
-**Goal**: To create function for user to play rock paper scissors game with bot.  
-
-**Description**: I enhanced the game from the previous version in R. In this version, user can play as many times as they want, if they want to stop just type 'quit' and the game will stop. This version will show the score between user and computer every time they choose a move, unlike the previous one.  
-
-**Skill**: Python 
-
-**Tool**: Python  
-
-### Pandas practice
-**Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
-
-**Goal**: To practice using pandas foundation function.  
-
-**Skill**: Python: pandas  
-
-**Tool**: Python  
-
 ### Project: Bellabeat Data Analysis
 **Link**: [Bellabeat analysis project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)  
 
@@ -141,8 +111,51 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
+### Creating Rock Paper Scissors Game Using Python
+**Link**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
+
+**Goal**: To create function for user to play rock paper scissors game with bot.  
+
+**Description**: I enhanced the game from the previous version in R. In this version, user can play as many times as they want, if they want to stop just type 'quit' and the game will stop. This version will show the score between user and computer every time they choose a move, unlike the previous one.  
+
+**Skill**: Python 
+
+**Tool**: Python  
+
+### Pandas Practice
+**Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
+
+**Goal**: To practice using pandas foundation function.  
+
+**Skill**: Python: pandas  
+
+**Tool**: Python  
+
+## Machine Learning
+### KNN model
+**Link**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
+
+**Goal**: To practice machine learning using KNN model and able to tune the model.  
+
+**Description**: I started this model by doing 4 steps, split data, train data, score data, and evaluate data. To make model more accurate, I tuned the model using k-fold cross validation method and use preprocess in this model.  
+
+**Skill**: Machine Learning and R programming language  
+
+**Tool**: Rstudio  
+
+### Build Churn Prediction Model
+**Link**: [Churn prediction model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
+
+**Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
+
+**Description**: Understand type of data and select logistic model since the data is about yes-no. Build model using 4 steps which are split data, train data, score data, and eveluate data.  
+
+**Skill**: Machine Learning and R programming language  
+
+**Tool**: Rstudio  
+
 ## Dashboard
-### Cannabis retail sales
+### Cannabis Retail Sales
 **Link**: [Cannabis retail sales dashboard](https://lookerstudio.google.com/s/oPDIwuutxL4)  
 
 **Goal**: To create dashboard of cannabis retail sales for adult-use and medical use.  
@@ -151,7 +164,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Tool**: Looker studio  
 
-### Mini dashboard (PubG vs Freefire data)
+### Mini Dashboard (PubG vs Freefire data)
 **Link**: [Mini dashboad in google sheets](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/mini%20dashboard%20-%20Freefire%20vs.%20PubG.xlsx)  
 
 **Goal**: To create dashboard to answer user question about PubG and Freefire data.  

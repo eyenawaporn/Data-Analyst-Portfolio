@@ -10,7 +10,17 @@ My CV in [pdf](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/N
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Porfolio projects
+## Table of Contents
+- [About](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#about)  
+- [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
+  - SQL  
+     - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)  
+  - R
+    - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
+  - Python
+    - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
+
+## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## SQL

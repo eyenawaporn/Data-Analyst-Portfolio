@@ -24,8 +24,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
     - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)(https://github.com/eyenawaporn/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#project-discover-correlation-between-inflation-rate-and-goverment-debt-to-quality-of-life)  
-    - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life]()
+    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)    
+    - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life](https://github.com/eyenawaporn/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#project-discover-correlation-between-inflation-rate-and-goverment-debt-to-quality-of-life)  
   - Machine Learning  
     - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)  

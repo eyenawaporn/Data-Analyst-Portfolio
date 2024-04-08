@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
     - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)
+    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)(https://github.com/eyenawaporn/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#project-discover-correlation-between-inflation-rate-and-goverment-debt-to-quality-of-life)  
     - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life]()
   - Machine Learning  
     - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
@@ -69,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal**: To create chatbot for user to order pizza  
 
-**Description**: I used R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. I used function readline() to ask for user input. 
+**Description**: Utilized R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. Function readline() was implemented to ask for user input. 
 
 **Skill**: R programming language: flush.console(), readline(), control flow  
 
@@ -80,7 +80,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal**: Ask five question from NYCflight dataset.  
 
-**Description**: The dataset contains data about flight, arrival time, departure time, and destination. I used a lot of aggregate functions such as summarise, sum, and mean to transform data into meaningful insight to answer my questions.  
+**Description**: The dataset contains data about flight, arrival time, departure time, and destination. A lot of aggregate functions such as summarise, sum, and mean were utilized to transform data into meaningful insight to answer my questions.  
 
 **Skill**: R programming language, Data transformation, Aggregate functions  
 
@@ -91,7 +91,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal**: To create 5 visualization using mpg dataset in Rstudio.  
 
-**Description**: I used mpg dataset in Rstudio to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.  
+**Description**: MPG dataset in Rstudio was used to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.  
 
 **Skill**: R programming language, Data visualization, R markdown  
 
@@ -130,7 +130,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Goal**: To create function for user to play rock paper scissors game with bot.  
 
-**Description**: I enhanced the game from the previous version in R. In this version, user can play as many times as they want, if they want to stop just type 'quit' and the game will stop. This version will show the score between user and computer every time they choose a move, unlike the previous one.  
+**Description**: Created function in Python for user to play rock paper scissors game. User can play as many times as they want, if they want to stop just type 'quit' and the game will stop. It will show the score between user and computer every time they choose a move. Function input() was implemented to allow users to type moves they choose.
 
 **Skill**: Python 
 
@@ -139,7 +139,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 ### Pandas Practice
 **Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
 
-**Goal**: To practice using pandas foundation function.  
+**Goal**: To practice using pandas foundation function to answer various questions.  
 
 **Skill**: Python: pandas  
 
@@ -151,7 +151,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  
 
-**Description**: I started this model by doing 4 steps, split data, train data, score data, and evaluate data. To make model more accurate, I tuned the model using k-fold cross validation method and use preprocess in this model.  
+**Description**: The model development process involved four steps: data splitting, training, scoring, and evaluation. K-fold cross-validation was employed to enhance model accuracy, and preprocessing techniques were integrated.  
 
 **Skill**: Machine Learning and R programming language  
 
@@ -183,7 +183,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Goal**: To create dashboard to answer user question about PubG and Freefire data.  
 
-**Description**: The spreadsheet contains data from PubG and Freefire, I combined them together to make it easier to analyze. There are five questions from user, for each question I used a pivot table to analyze specific column and visualize it into a compelling visualization. Then I created dashboard from all the visualizations to make ot easy for user to look.  
+**Description**: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.    
 
 **Skill**: Google sheet: Pivot table, Data visualization, Dashboard  
 
@@ -191,7 +191,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
-## Certificate
+## Certifications  
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications
 
 [Data Sceince Bootcamp](https://api.badgr.io/public/assertions/Y0GvokHASs27mAU4zvuRwQ?identity__email=nawaporn.pmk%40gmail.com) (Mar 2024) (Datarockie)  

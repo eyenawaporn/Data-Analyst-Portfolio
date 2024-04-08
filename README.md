@@ -14,7 +14,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#about)  
 - [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
   - SQL  
-     - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)  
+     - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
+     - [Project: Student Performance Data Exploration]()
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
     - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
@@ -49,6 +50,17 @@ In this section I will list data analytics projects briefly describing the techn
 **Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization   
 
 **Tool** Bigquery and Tableau  
+
+### Project: Student Performance Data Exploration  
+**Link**: [Student performance project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Student%20Performance.sql)  
+
+**Goal**: To explore data using EDA method.  
+
+**Description**: This project entails data acquisition, cleansing, and exploration (Exploratory Data Analysis, or EDA) to uncover patterns. SQL statements and subqueries will be employed to facilitate this in-depth analysis.  
+
+**Skill**: Basic SQL statements, subqueries  
+
+**Tool** SQLite    
 
 ## R programming language
 ### Project: Cyclistic Bike-Share Analysis Case Study

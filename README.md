@@ -23,7 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
     - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)  
+    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)
+    - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life]()
   - Machine Learning  
     - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)  
@@ -110,6 +111,19 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Python: pandas, numpy, seaborn, matplotlib    
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
+
+### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
+**Link**: [Correlation of inflation and debt to quality of life](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life.ipynb)  
+
+**Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
+
+**Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
+
+**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
+
+**Tool**: Python: pandas, numpy, seaborn, matplotlib    
+
+**Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
 
 ### Creating Rock Paper Scissors Game Using Python
 **Link**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  

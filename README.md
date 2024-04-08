@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
   - SQL  
      - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
-     - [Project: Student Performance Data Exploration]()
+     - [Project: Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
     - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
@@ -158,7 +158,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Python  
 
 ## Machine Learning
-### KNN model
+### KNN Model
 **Link**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  

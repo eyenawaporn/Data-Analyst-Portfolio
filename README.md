@@ -45,7 +45,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.  
 
-**Description**: This data set has info on COVID-19 cases, deaths, and vaccines for different countries from 2020 to 2024. The project involves getting the data, cleaning it up, and then digging into it to see what's going on (Exploratory Data Analysis, or EDA for short)  
+**Description**: This dataset has information on COVID-19 cases, deaths, and vaccines for different countries from 2020 to 2024. The project involves getting the data, cleaning it up, and then digging into it to see what's going on (Exploratory Data Analysis, or EDA for short)  
 
 **Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization   
 

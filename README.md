@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## SQL
 ### Project: Covid-19 Data Exploration
-**Link**: [Covid-19 project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Covid19_Project.sql)  
+**Code**: [Covid-19 project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Covid19_Project.sql)  
           [Tableau visualization](https://public.tableau.com/app/profile/nawaporn.pernmankhong/viz/CovidDashboard2020-2024_17110964524360/Dashboard1)  
 
 **Goal**: To clean data, analyze data, and create a compelling data visualization on Tableau.  
@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool** Bigquery and Tableau  
 
 ### Project: Student Performance Data Exploration  
-**Link**: [Student performance project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Student%20Performance.sql)  
+**Code**: [Student performance project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Student%20Performance.sql)  
 
 **Goal**: To explore data using EDA method.  
 
@@ -64,7 +64,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## R programming language
 ### Project: Cyclistic Bike-Share Analysis Case Study
-**Link**: [Cyclistic bike-share](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Cyslistic%20project.R)  
+**Code**: [Cyclistic bike-share](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Cyslistic%20project.R)  
 
 **Goal**:  To design a new marketing strategy to convert casual riders into annual members.  
 
@@ -77,7 +77,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members.  Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August).  Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended.  This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
 ### Creating Chatbot to Order Pizza
-**Link**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
+**Code**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
 
 **Goal**: To create chatbot for user to order pizza  
 
@@ -88,7 +88,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Tool**: Rstudio  
 
 ### Data Transformation
-**Link**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
+**Code**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
 
 **Goal**: Ask five question from NYCflight dataset.  
 
@@ -111,7 +111,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Python
 ### Project: Bellabeat Data Analysis
-**Link**: [Bellabeat analysis project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)  
+**Code**: [Bellabeat analysis project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)  
 
 **Goal**: To focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their sma devices.  
 
@@ -125,7 +125,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
 ### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Link**: [Correlation of inflation and debt to quality of life](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life.ipynb)  
+**Code**: [Correlation of inflation and debt to quality of life](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life.ipynb)  
 
 **Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
 
@@ -138,7 +138,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
 
 ### Creating Rock Paper Scissors Game Using Python
-**Link**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
+**Code**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
 
 **Goal**: To create function for user to play rock paper scissors game with bot.  
 
@@ -149,7 +149,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Python  
 
 ### Pandas Practice
-**Link**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
+**Code**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
 
 **Goal**: To practice using pandas foundation function to answer various questions.  
 
@@ -159,7 +159,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 ## Machine Learning
 ### KNN Model
-**Link**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
+**Code**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  
 
@@ -170,7 +170,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Rstudio  
 
 ### Build Churn Prediction Model
-**Link**: [Churn prediction model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
+**Code**: [Churn prediction model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/churn_prediction_model.R)  
 
 **Goal**: To practice using logistic model to predict whether customer will stay with the compamy or not.  
 

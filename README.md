@@ -31,7 +31,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)  
   - Dashboard  
     - [Cannabis Retail Sales](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#cannabis-retail-sales)  
-    - [Mini Dashboard Freefire vs. PubG](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#mini-dashboard-pubg-vs-freefire-data)  
+    - [Mini Dashboard Freefire vs. PubG](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#mini-dashboard-pubg-vs-freefire-data)
+    - [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#data-professional-dashboard)  
 - [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certificate)  
 - [Contact](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#contact)  
 

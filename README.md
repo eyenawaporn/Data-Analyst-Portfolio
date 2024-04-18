@@ -203,6 +203,17 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
+### Data Professional Dashboard  
+**Link**: [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data%20Professional%20Dashboard.pdf)  
+
+**Goal**: To create dashboard in Power BI by using real survey data about data profession.  
+
+**Description**: Leveraging a dataset derived from a data profession survey, I cleansed and formatted the data within Power Query to ensure its accuracy and usability. Subsequently, I employed various chart types, such as bar charts, to visualize key findings, including the most popular programming languages among data professionals. The culmination of this process is a compelling dashboard that effectively communicates the highlighted areas within the data profession.  
+
+**Skill**: Data visualization, Power BI, Power Query, Dashboard  
+
+**Tool**: Power BI  
+
 ## Certifications  
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications
 

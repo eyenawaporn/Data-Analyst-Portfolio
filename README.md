@@ -90,28 +90,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool**: Rstudio  
 
-### Data Transformation
-**Code**: [Data transformation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data_Transformation.R)  
-
-**Goal**: Ask five question from NYCflight dataset.  
-
-**Description**: The dataset contains data about flight, arrival time, departure time, and destination. A lot of aggregate functions such as summarise, sum, and mean were utilized to transform data into meaningful insight to answer my questions.  
-
-**Skill**: R programming language, Data transformation, Aggregate functions  
-
-**Tool**: Rstudio  
-
-### Data Visualization in R Markdown  
-**Link**: [Data visualization in R markdown](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Homework_R_Markdown.pdf)  
-
-**Goal**: To create 5 visualization using mpg dataset in Rstudio.  
-
-**Description**: MPG dataset in Rstudio was used to create a visualization from ggplot2 function to answer 5 questions and write in it R markdown file.  
-
-**Skill**: R programming language, Data visualization, R markdown  
-
-**Tool**: Rstudio  
-
 ## Python
 ### Project: Bellabeat Data Analysis
 **Code**: [Bellabeat analysis project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/bellabeat_data_analysis.ipynb)  
@@ -127,19 +105,6 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
-### Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life  
-**Code**: [Correlation of inflation and debt to quality of life](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/inflation_and_goverment_debt_affects_quality_of_life.ipynb)  
-
-**Goal**: To discover whether inflation rate and government in Thailand from 2005 - 2020 has any impact on quality of life.  
-
-**Desciption**: Performed exploratory data analysis to spot any inconsistences and missing values of the dataset and then cleaned it. One of the dataframes that has been used in this analysis is in incorrect format, so I decided to build new dataframe based on the data in the original dataframe but make it in correct format. After cleaned and filtered data that'll be using in this analysis, I created data visualization to help identify patterns and uncover relationships between each dataframes.  
-
-**Skill**: Prepare data, Clean data, Analyze data, Visualize data  
-
-**Tool**: Python: pandas, numpy, seaborn, matplotlib    
-
-**Result**: The visualizations show the correlation between government debt and quality of life and show that there's negative correlation between inflation rate and government debt.  
-
 ### Creating Rock Paper Scissors Game Using Python
 **Code**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
 
@@ -148,15 +113,6 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Description**: Created function in Python for user to play rock paper scissors game. User can play as many times as they want, if they want to stop just type 'quit' and the game will stop. It will show the score between user and computer every time they choose a move. Function input() was implemented to allow users to type moves they choose.
 
 **Skill**: Python 
-
-**Tool**: Python  
-
-### Pandas Practice
-**Code**: [Pandas practice](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
-
-**Goal**: To practice using pandas foundation function to answer various questions.  
-
-**Skill**: Python: pandas  
 
 **Tool**: Python  
 

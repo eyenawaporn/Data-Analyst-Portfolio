@@ -14,8 +14,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#about)  
 - [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
   - SQL  
-     - [Project: Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
-     - [Project: Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
+     - [Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
+     - [Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
     - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  

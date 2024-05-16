@@ -40,7 +40,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## SQL
-### Project: Covid-19 Data Exploration
+### Covid-19 Data Exploration
 **Code**: [Covid-19 project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Covid19_Project.sql)  
           [Tableau visualization](https://public.tableau.com/app/profile/nawaporn.pernmankhong/viz/CovidDashboard2020-2024_17110964524360/Dashboard1)  
 
@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Tool** Bigquery and Tableau  
 
-### Project: Student Performance Data Exploration  
+### Student Performance Data Exploration  
 **Code**: [Student performance project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Student%20Performance.sql)  
 
 **Goal**: To explore data using EDA method.  

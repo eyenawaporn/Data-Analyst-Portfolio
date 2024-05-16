@@ -16,9 +16,10 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL  
      - [Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
      - [Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
+     - [Data Cleaning]  
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
-    - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
+    - [Chatbot for Customers Orders](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
    
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
@@ -26,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Movie Recommendation System]
       
   - Machine Learning  
-    - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
+    - [K-nearest Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)
     - [Sales Forecast Using Linear Regression Model]
       
@@ -79,7 +80,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result**: Our data visualization reveals distinct usage patterns between casual riders and members.  Membership data suggests a strong correlation with commuting, evidenced by peak usage during morning and evening rush hours. Conversely, casual ridership exhibits a seasonal trend, concentrated during the summer months (June-August).  Based on this analysis, a targeted marketing campaign aimed at non-member office workers and summer casual riders is recommended.  This campaign could leverage free trials and discount offers to incentivize membership subscriptions.
 
-### Creating Chatbot to Order Pizza
+### Creating Chatbot to Take Customers' Orders  
 **Code**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
 
 **Goal**: To create chatbot for user to order pizza  
@@ -116,8 +117,19 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Tool**: Python  
 
+### Creating Movie Recommendation System  
+**Code**: [Movie recommendation](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/movie%20recommendation.ipynb)  
+
+**Goal**: To build a an interactive movie recommendation system.    
+
+**Description**: The project began by downloading data on movies and movie ratings.  Following this, a search engine was built to enable users to search through the compiled movie lists.  Finally, a recommendation system was developed to suggest 10 movies based on a user's search query.  
+
+**Skill**: Python: pandas, numpy, ipywidgets  
+
+**Tool**: Jupyter Notebook  
+
 ## Machine Learning
-### KNN Model
+### K-nearest Model
 **Code**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  
@@ -138,6 +150,19 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Skill**: Machine Learning and R programming language  
 
 **Tool**: Rstudio  
+
+### Sales Forecast with Linear Regression  
+**Code**: [Sales forecast](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/sales_forecast.ipynb)  
+
+**Goal**: To predict future sales using a linear regression model.  
+
+**Description**: The project leverages historical sales data. This data undergoes preprocessing to create a supervised learning dataset, which is then used to train a linear regression model for sales prediction. To assess model performance, evaluation metrics are employed, and visualizations are generated to compare predicted sales with actual sales figures.  
+
+**Skill**: Machine Learning, Linear Regression, Scikit-learn  
+
+**Tool**: Python  
+
+**Result**: A visualization is created to compare actual sales with predicted sales. This visualization aids in assessing the model's performance in predicting sales for the test period.  
 
 ## Dashboard
 ### Cannabis Retail Sales
@@ -172,6 +197,19 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Skill**: Data visualization, Power BI, Power Query, Dashboard  
 
 **Tool**: Power BI  
+
+### Bike Share Dashboard  
+**Link**: [Bike share dashboard]()  
+
+**Goal**: To display key performance metrics for informed decision-making.  
+
+**Description**: Granted access to the SQL server database and established a connection with Power BI. Developed visualizations to display hourly revenue, profit, revenue trends, seasonal revenue patterns, and rider demographics.  Finally, recommendations were provided for potential price adjustments in the coming year.  
+
+**Skill**: SQL Server, Power BI, ETL process, Power Query  
+
+**Tool**: Power BI  
+
+**Result**: Following last year's significant increase, a more moderate price adjustment of 10-15% is recommended to test the market's response and avoid exceeding a potential price ceiling that could dampen demand.  
 
 ## Certifications  
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications

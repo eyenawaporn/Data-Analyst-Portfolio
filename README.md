@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
      - [Data Cleaning]  
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
-    - [Chatbot for Customers Orders](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
+    - [Chatbot for Customers Orders](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-take-customers-orders)  
    
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  

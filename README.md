@@ -19,20 +19,22 @@ This is a repository to showcase skills, share projects and track my progress in
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
     - [Chatbot Order Pizza](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-order-pizza)  
-    - [Data Transformation](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#data-transformation)  
-    - [Data Visualization in R Markdown](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#data-visualization-in-r-markdown)  
+   
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
     - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Pandas Practice](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#pandas-practice)    
-    - [Project: Discover Correlation Between Inflation Rate and Goverment Debt to Quality of Life](https://github.com/eyenawaporn/Data-Analyst-Portfolio/tree/main?tab=readme-ov-file#project-discover-correlation-between-inflation-rate-and-goverment-debt-to-quality-of-life)  
+    - [Movie Recommendation System]
+      
   - Machine Learning  
     - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
-    - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)  
+    - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)
+    - [Sales Forecast Using Linear Regression Model]
+      
   - Dashboard  
     - [Cannabis Retail Sales](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#cannabis-retail-sales)  
     - [Mini Dashboard Freefire vs. PubG](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#mini-dashboard-pubg-vs-freefire-data)
-    - [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#data-professional-dashboard)  
+    - [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#data-professional-dashboard)
+    - [Bike Share Dashboard]  
 - [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certificate)  
 - [Contact](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#contact)  
 

@@ -24,18 +24,19 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
     - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Movie Recommendation System]
+    - [Movie Recommendation System](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-movie-recommendation-system)  
       
   - Machine Learning  
     - [K-nearest Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#knn-model)  
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)
-    - [Sales Forecast Using Linear Regression Model]
+    - [Sales Forecast Using Linear Regression Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#sales-forecast-with-linear-regression)  
       
   - Dashboard  
     - [Cannabis Retail Sales](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#cannabis-retail-sales)  
     - [Mini Dashboard Freefire vs. PubG](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#mini-dashboard-pubg-vs-freefire-data)
     - [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#data-professional-dashboard)
-    - [Bike Share Dashboard]  
+    - [Bike Share Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#bike-share-dashboard)
+      
 - [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certificate)  
 - [Contact](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#contact)  
 

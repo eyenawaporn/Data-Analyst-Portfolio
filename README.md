@@ -189,7 +189,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
 ### Data Professional Dashboard  
-**Link**: [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Data%20Professional%20Dashboard.pdf)  
+**Link**: [Data Professional Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGYwM2U1ZDYtOGNlNy00NmYzLWJjNTUtNzQxZmE0MzRhODE3IiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D)  
 
 **Goal**: To create dashboard in Power BI by using real survey data about data profession.  
 
@@ -200,7 +200,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Power BI  
 
 ### Bike Share Dashboard  
-**Link**: [Bike share dashboard]()  
+**Link**: [Bike share dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJiNTAzZDgtNGRkYi00MGRlLWIyZTItYTY3MDRmMmE3OGNmIiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D)  
 
 **Goal**: To display key performance metrics for informed decision-making.  
 

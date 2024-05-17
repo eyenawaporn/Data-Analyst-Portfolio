@@ -155,7 +155,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 ### Sales Forecast with Linear Regression  
 **Code**: [Sales forecast](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/sales_forecast.ipynb)  
 
-**Goal**: To predict future sales using a linear regression model.  
+**Goal**: To forecast sales and compare actual and forecasted sales using different metrics.    
 
 **Description**: The project leverages historical sales data. This data undergoes preprocessing to create a supervised learning dataset, which is then used to train a linear regression model for sales prediction. To assess model performance, evaluation metrics are employed, and visualizations are generated to compare predicted sales with actual sales figures.  
 

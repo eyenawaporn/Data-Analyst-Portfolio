@@ -167,7 +167,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 ## Dashboard
 ### Cannabis Retail Sales
-**Link**: [Cannabis retail sales dashboard](https://lookerstudio.google.com/s/oPDIwuutxL4)  
+**Link**: [Cannabis retail sales dashboard](https://lookerstudio.google.com/reporting/bed3f8bb-7d75-4987-9a6f-6a2f7113eb45)  
 
 **Goal**: To create dashboard of cannabis retail sales for adult-use and medical use.  
 

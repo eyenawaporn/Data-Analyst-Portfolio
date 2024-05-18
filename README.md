@@ -22,9 +22,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Chatbot for Customers Orders](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-take-customers-orders)  
    
   - Python  
-    - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)  
-    - [Rock Paper Scissors Game](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-rock-paper-scissors-game-using-python)  
-    - [Movie Recommendation System](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-movie-recommendation-system)  
+    - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)
+    - [Sales Analysis]
+    - [Movie Recommendation System](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-movie-recommendation-system)    
       
   - Machine Learning  
     - [K-nearest Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#k-nearest-model)  
@@ -107,14 +107,14 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Result**: Bellabeat has the opportunity to broaden user perception beyond sports and exercise-related activities. Data suggests that many users wear the tracker more frequently on weekends, potentially indicating an association with solely physical pursuits or leisurely weekend walks. Bellabeat can effectively communicate the value proposition of its products as companions for all daily activities, including work. This comprehensive approach to health and fitness tracking empowers women of diverse demographics and backgrounds to prioritize their well-being, ultimately expanding Bellabeat's reach to all women seeking holistic health improvement.  
 
-### Creating Rock Paper Scissors Game Using Python
-**Code**: [Rock paper scissors game using python](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/rock_paper_scissors_python.ipynb)  
+### Sales Analysis
+**Code**: [Sales analysis](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Pandas%20Foundation%20-%20Final%20Project.ipynb)  
 
-**Goal**: To create function for user to play rock paper scissors game with bot.  
+**Goal**: To analyze sales data based on specific requirement.    
 
-**Description**: Created function in Python for user to play rock paper scissors game. User can play as many times as they want, if they want to stop just type 'quit' and the game will stop. It will show the score between user and computer every time they choose a move. Function input() was implemented to allow users to type moves they choose.
+**Description**: The Pandas library in Python was used to conduct a comprehensive exploratory data analysis (EDA) of sales data. This data-driven approach identified key insights that addressed critical business questions.    
 
-**Skill**: Python 
+**Skill**: Python: pandas  
 
 **Tool**: Python  
 

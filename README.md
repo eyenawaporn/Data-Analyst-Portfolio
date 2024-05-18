@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL  
      - [Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-covid-19-data-exploration)
      - [Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)
-     - [Data Cleaning]  
+  
   - R  
     - [Project: Cyclistic Bike-Share Analysis Case Study](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-cyclistic-bike-share-analysis-case-study)  
     - [Chatbot for Customers Orders](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-chatbot-to-take-customers-orders)  

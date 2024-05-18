@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
    
   - Python  
     - [Project: Bellabeat Data Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#project-bellabeat-data-analysis)
-    - [Sales Analysis]
+    - [Sales Analysis](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#sales-analysis)  
     - [Movie Recommendation System](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-movie-recommendation-system)    
       
   - Machine Learning  

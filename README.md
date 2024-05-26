@@ -182,11 +182,9 @@ insights I discover will then help guide marketing strategy for the company. I w
 
 **Description**: Data from PubG and Freefire were combined within the spreadsheet to facilitate analysis. Five user-defined questions were addressed by leveraging pivot tables to analyze specific columns and generate compelling visualizations. These visualizations were then compiled into a user-friendly dashboard.    
 
-**Skill**: Google sheet: Pivot table, Data visualization, Dashboard  
+**Skill**: Google sheets: Pivot table, Data visualization, Dashboard  
 
 **Tool**: Google sheets  
-
-**Result**: Able to answer questions from user such as comparing engagement between PubG and Freefire and which content type has the most engagement etc.  
 
 ### Data Professional Dashboard  
 **Link**: [Data Professional Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGYwM2U1ZDYtOGNlNy00NmYzLWJjNTUtNzQxZmE0MzRhODE3IiwidCI6IjQzZDNlNWRmLTU2ZDItNGI3NS05MDI4LTE3ZDM0NzY0ZDFhMCIsImMiOjEwfQ%3D%3D)  

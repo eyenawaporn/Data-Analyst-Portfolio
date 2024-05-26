@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Movie Recommendation System](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#creating-movie-recommendation-system)    
       
   - Machine Learning  
-    - [K-nearest Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#k-nearest-model)  
+    - [KNN Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#k-nearest-model)  
     - [Churn Prediction Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#build-churn-prediction-model)
     - [Sales Forecast Using Linear Regression Model](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#sales-forecast-with-linear-regression)  
       
@@ -130,7 +130,7 @@ insights I discover will then help guide marketing strategy for the company. I w
 **Tool**: Jupyter Notebook  
 
 ## Machine Learning
-### K-nearest Model
+### KNN Model
 **Code**: [Tune model using knn model](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/knn_model.R)  
 
 **Goal**: To practice machine learning using KNN model and able to tune the model.  

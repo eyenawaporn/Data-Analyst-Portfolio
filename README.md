@@ -65,7 +65,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skill**: Basic SQL statements, subqueries  
 
-**Tool** SQLite    
+**Tool**: SQLite    
 
 ## R programming language
 ### Project: Cyclistic Bike-Share Analysis Case Study

@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#about)  
-- [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#porfolio-projects)
+- [Portfolio Projects](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#portfolio-projects)  
   - SQL  
      - [Covid-19 Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#covid-19-data-exploration)
      - [Student Performance Data Exploration](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#project-student-performance-data-exploration)

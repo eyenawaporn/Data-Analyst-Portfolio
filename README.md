@@ -54,7 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skill**: Joins, CTE's, Basic functions, Aggregate functions, Creating views, Converting data types, and Visualization   
 
-**Tool** Bigquery and Tableau  
+**Tool**: Bigquery and Tableau  
 
 ### Student Performance Data Exploration  
 **Code**: [Student performance project](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Student%20Performance.sql)  

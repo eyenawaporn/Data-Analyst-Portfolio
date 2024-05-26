@@ -84,7 +84,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Creating Chatbot to Take Customers' Orders  
 **Code**: [Chatbot order pizza](https://github.com/eyenawaporn/Data-Analysis-Projects/blob/main/Chatbot%20order%20pizza.ipynb)  
 
-**Goal**: To create chatbot for user to order pizza  
+**Goal**: To create chatbot for user to order pizza.    
 
 **Description**: Utilized R to create chatbot which it'll ask user name, show the menu, ask what user would like to order, and calculate the price. Function readline() was implemented to ask for user input. 
 

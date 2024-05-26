@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Data Professional Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/README.md#data-professional-dashboard)
     - [Bike Share Dashboard](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#bike-share-dashboard)
       
-- [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certificate)  
+- [Certifications](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#certifications)   
 - [Contact](https://github.com/eyenawaporn/Data-Analyst-Portfolio?tab=readme-ov-file#contact)  
 
 ## Portfolio Projects

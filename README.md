@@ -213,13 +213,13 @@ insights I discover will then help guide marketing strategy for the company. I w
 ## Certifications  
 While practical experience and demonstrably successful projects are undoubtedly the most effective means of showcasing one's skills, industry certifications can also serve as valuable validation.  In this regard, I have obtained the following certifications
 
-[Google Data Analytics](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Coursera%20completed%20certificate.pdf)(Dec 2023) (Coursera - Google)  
-[Correlation and Regression for The Curious](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Correlation%20and%20Regression.pdf)(Jan 2024) (Datarockie)   
+[Google Data Analytics](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Coursera%20completed%20certificate.pdf) (Dec 2023) (Coursera - Google)  
+[Correlation and Regression for The Curious](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Correlation%20and%20Regression.pdf) (Jan 2024) (Datarockie)   
 [Introduction to Data Studio](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Data%20stodio%20certificate.pdf) (Jan 2024) (Google Analytics Academy)  
 [Data Sceince Bootcamp](https://api.badgr.io/public/assertions/Y0GvokHASs27mAU4zvuRwQ?identity__email=nawaporn.pmk%40gmail.com) (Mar 2024) (Datarockie)  
-[Google Analytics for Beginners](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Google%20Analytics%20for%20Beginners.pdf)(May 2024) (Google Analytics Academy)  
+[Google Analytics for Beginners](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Google%20Analytics%20for%20Beginners.pdf) (May 2024) (Google Analytics Academy)  
 [Google Advanced Analytics](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Google%20Advanced%20Analytics.pdf)(May 2024) (Google Analytics Academy)  
-[Google Tag Manager Fundamentals](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Google%20Tag%20Manager%20Fundamentals.pdf)(June 2024) (Google Analytics Academy)  
+[Google Tag Manager Fundamentals](https://github.com/eyenawaporn/Data-Analyst-Portfolio/blob/main/Google%20Tag%20Manager%20Fundamentals.pdf) (June 2024) (Google Analytics Academy)  
 
 ## Contact
 **Email**: nawaporn.pmk@gmail.com  
